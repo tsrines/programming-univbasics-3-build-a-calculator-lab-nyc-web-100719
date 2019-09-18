@@ -19,6 +19,6 @@ def modulo(num1, num2)
 end
 modulo(2,4)
 def square_root(num)
-  math.sqrt(n)
+  math.sqrt(num)
 end
-square_root 
+square_root(74)
